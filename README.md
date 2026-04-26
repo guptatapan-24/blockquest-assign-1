@@ -41,5 +41,11 @@ Withdrew. User balance: 6.87912388 SOL
 
 ---
 
+## Demo Video
+
+![Video](https://drive.google.com/file/d/1dLCBdTXpBF_M5zCj-fq1JwnjbhayQ-uf/view?usp=drive_link)
+
+---
+
 - See `programs/piggy-bank/src/lib.rs` for the Solana program logic.
 - See `tests/piggy-bank.ts` for the test suite.
