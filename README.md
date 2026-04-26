@@ -37,7 +37,7 @@ Withdrew. User balance: 6.87912388 SOL
 
 ## Screenshot
 
-![All tests passing](https://dummyimage.com/600x100/27ae60/ffffff&text=All+tests+passing)
+![All tests passing](/src/Screenshot(291).png)
 
 ---
 
