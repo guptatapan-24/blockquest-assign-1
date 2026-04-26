@@ -43,7 +43,7 @@ Withdrew. User balance: 6.87912388 SOL
 
 ## Demo Video
 
-![Video](https://drive.google.com/file/d/1dLCBdTXpBF_M5zCj-fq1JwnjbhayQ-uf/view?usp=drive_link)
+[Watch the Demo](https://drive.google.com/file/d/1dLCBdTXpBF_M5zCj-fq1JwnjbhayQ-uf/view?usp=drive_link)
 
 ---
 
